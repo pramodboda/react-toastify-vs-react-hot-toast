@@ -1,3 +1,3 @@
  
- const reactHotToast = () => (<>React-toastify</>)
- export default reactHotToast;
+ const ReactHotToast = () => (<>React Hot Toast</>)
+ export default ReactHotToast;
